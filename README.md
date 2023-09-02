@@ -1,6 +1,7 @@
 
 > Open this page at [https://pythonscratcher.github.io/advance-microbit-radio-chat/](https://pythonscratcher.github.io/advance-microbit-radio-chat/)
 
+Micro:Bit Code for an advance radio text transmitter, with a keyboard! A to go through the keyboard, B to select and A+B to send, will beep on message receved
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
